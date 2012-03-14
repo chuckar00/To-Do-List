@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="item">Item</string>
+    <string name="app_name">To-Do-List</string>
+    <string name="done">Done?</string>
+    <string name="add">+</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="menuTitle">To-Do-Menu</string>
+</resources>
